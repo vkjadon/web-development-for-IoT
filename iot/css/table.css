@@ -1,0 +1,10 @@
+table.list-table-xs {
+  table-layout: auto;
+  width: 100%;  
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+table.list-table-xs tr {
+    border: 1px solid gainsboro;
+    font-size:small;
+  }
